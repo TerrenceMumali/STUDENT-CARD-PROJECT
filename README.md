@@ -1,1 +1,1 @@
-# STUDENT-CARD-PROJECT
+# CampusPulse Card
